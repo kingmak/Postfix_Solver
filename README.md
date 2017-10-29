@@ -1,7 +1,7 @@
 # Postfix_Solver
 A postfix notation Solver. <br>
 For more information on postfix notation, visit [this link](https://en.wikipedia.org/wiki/Reverse_Polish_notation) <br><br>
-Postfix solver in action
+Postfix solver in action <br>
 ![](https://github.com/kingmak/Postfix_Solver/blob/master/example.png) <br><br>
 Run like this: python -B Postfix.py <br><br>
 Stack.py - my stack implementation <br>
