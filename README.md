@@ -1,2 +1,3 @@
 # Postfix_Solver
-Evaluates postfix notation
+A postfix notation Solver. <br>
+Run like this: python -B postfix.py
